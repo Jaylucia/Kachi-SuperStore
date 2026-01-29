@@ -37,5 +37,8 @@ To analyze sales and profitability data from Kachi Superstore and provide data-d
 ## Files in this Repository
 - `Kachi_Superstore.ipynb` – Python analysis
 - `Kachi SuperStore.pbix` – Power BI dashboard
+- `dashboard.png` – Kachi SuperStore Dashboard
 - `data/` – Dataset
 
+## Dashboard Preview
+![Dashboard](dashboard.png)
